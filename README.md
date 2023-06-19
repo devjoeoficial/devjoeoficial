@@ -1,18 +1,18 @@
 
 # Hi, welcome aboard! 👋
 
-Me chamo Dev Joe, amo Tecnologia e sou apaixonado por trabalhar em projetos onde a Tecnologia, Criatividade
-e Trabalho em equipe andem juntos.
+Me chamo Dev Joe, amo Tecnologia e sou apaixonado por trabalhar em projetos onde a Tecnologia, Criatividade e Trabalho  
+em equipe andem juntos.
 
 ## 🚀 Sobre mim
 
-Sempre gostei bastante de estar envolvido com o que tem haver com tecnologia no geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida como um todo.
+Sempre gostei muito de estar no meio da tecnologia em geral, descobri esse grande interesse através dos games e acabou se estendendo para outras áreas da minha vida como um todo.
 
 Hoje a minha maior motivação vem das inúmeras possibilidades de transformar a forma como vivemos e fazemos algumas coisas através de aplicações e soluções práticas para o dia-a-dia.
 
-Certificado pelo curso técnico o Dev FullStack da StackX - Formação de Desenvolvimento de Software.
+Certificado pelo curso técnico o Dev FullStack da StackX - Formação de Desenvolvimento de Software. <br><br> <img src="https://static.wixstatic.com/media/57b3f0_e25a0e44bb1442a1aeb0562d2f9e2970~mv2.jpeg" width="150" height="75" />
 
-Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
+Trabalhando como Dev Jr em um projeto desktop com stack predominante Java (JavaFx, Springboot, OpenJDK, PostgreSQL, Liquibase).
 
 ## 🛠 Skills
 
@@ -27,5 +27,4 @@ Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (J
 ![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![image](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
