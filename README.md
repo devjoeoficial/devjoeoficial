@@ -1,9 +1,8 @@
 
 # Hi, welcome aboard! 👋
 
-Me chamo Dev Joe, amo Tecnologia e sou apaixonado por trabalhar em projetos onde a Tecnologia, Criatividade e Trabalho em equipe andem juntos.
-
-
+Me chamo Dev Joe, amo Tecnologia e sou apaixonado por trabalhar em projetos onde a Tecnologia, Criatividade
+e Trabalho em equipe andem juntos.
 
 ## 🚀 Sobre mim
 
@@ -30,7 +29,3 @@ Trabalhando como Dev.Jr em um projeto desktop com linguagem predominante Java (J
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![image](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-![url](https://github-readme-stats.vercel.app/api?username=devjoeoficial)
-
